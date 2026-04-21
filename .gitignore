@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+
+# Data files
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Reports output
+reports/*.csv
