@@ -1,0 +1,21 @@
+(.Venv) activating
+
+cd C:\Code\PythonProjects\orb-backtester
+.\.venv\Scripts\Activate
+
+result : (.venv) PS C:\Code\PythonProjects\orb-backtester> 
+
+You may see: execution of scripts is disabled. Fix it once using:
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Then retry:
+.\.venv\Scripts\Activate
+
+-----------------------
+
+Prompt - for KB consolidation;
+
+create summary from the conversations from start to the end. Add only retain what is relevant, important and useful for further development of system. Remember the conditions, decisions taken, code structure, coding format, infra structure etc, maintain final code in the summary.
+
+
