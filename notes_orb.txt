@@ -16,6 +16,7 @@ Then retry:
 
 Prompt - for KB consolidation;
 
-create summary from the conversations from start to the end. Add only retain what is relevant, important and useful for further development of system. Remember the conditions, decisions taken, code structure, coding format, infra structure etc, maintain final code in the summary.
+create summary from the above conversations & responses from start to the end. Retain only what is relevant, important and useful for further development of system. Remember the conditions, decisions taken, code structure, coding format, infra structure etc, maintain final code in the summary that this document becomes your source. Create a living system blueprint, not just scattered code and chat history. build this as a clean, reusable system summary — something we will use as the master reference going forward.
+
 
 
