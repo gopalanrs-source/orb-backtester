@@ -36,6 +36,12 @@ __pycache__/
 
 reports/
 
+# But allow images
+!reports/equity_curve.png
+!reports/drawdown_curve.png
+!reports/monthly_equity_curve.png
+
+
 # ------------------------------
 # VS Code
 # ------------------------------
